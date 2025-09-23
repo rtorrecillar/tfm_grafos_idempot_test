@@ -1,0 +1,5 @@
+metrics,mean_no_NA,pct_2_3_over_total,pct_2_3_no_NA
+context_precision,0.662499999944583,65,65
+context_recall,0.833333333333333,75,83.3333333333333
+answer_relevancy,0.808140577131548,45,100
+faithfulness,0.95,95,95

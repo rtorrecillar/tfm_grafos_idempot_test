@@ -1,0 +1,5 @@
+style,context_precision,context_recall,faithfulness,answer_relevancy
+chain_of_thought,0.39999999996,0.6,1.0,0.7902728296722027
+few_shot,0.79999999992,1.0,1.0,0.8433134650200653
+self_verification,0.6499999999783334,0.8,1.0,0.8146390274935742
+zero_shot,0.79999999992,1.0,0.8,0.8003935825445385
